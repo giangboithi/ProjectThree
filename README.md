@@ -36,5 +36,8 @@ Event will be a art and photography gallery of LGBTQ+ Asian, Dance and sing perf
 ![two](img/BoiThiGiang_Festival%20Guide%20Concept.pdf)
 
 # acknowledgement
-
+## LGBTQ+ Image
+[https://as1.ftcdn.net/v2/jpg/04/47/70/70/1000_F_447707088_Lp834GwH42xvPwQFjqecqgmviqMSovgX.jpg]
+## Theater Image
+[https://as2.ftcdn.net/v2/jpg/05/26/86/29/1000_F_526862938_S3YT4HXTd9AuIanDeEQbtVa8CRXqRyB9.jpg]
 

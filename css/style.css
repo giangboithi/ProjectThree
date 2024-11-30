@@ -1,4 +1,85 @@
 *{
     margin:0;
     padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(249, 230, 154);
+}
+
+
+#homebanner{
+        background-color:cornsilk;
+        padding: 2%;
+    img{
+        margin-left: 45%;
+    }
+    a{
+        text-align: center;
+        font-family: "sauna-new", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 35px;
+        text-decoration: none;
+        margin-left:4%;
+        color: rgb(0, 0, 0);
+    }
+    nav{
+        text-align: center;
+    }
+}
+#header{
+    margin-left: 10%;
+    text-align: center;
+        font-family: "sauna-new", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 40px;
+        color: rgb(241 83 86);
+}
+
+#mainContent{
+    margin-left: 10%;
+    margin-right:10%
+}
+
+footer{
+    margin-left: 10%;
+}
+
+h2{
+    font-family: "sauna-new", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 50px;
+}
+
+#About{
+    display: flex;
+            flex-direction: row;
+    p{
+        font-family: "futura-pt", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 30px;
+        margin-right: 5%;
+        margin-left:3%;
+    }
+        }
+
+#location{
+    display: flex;
+            flex-direction: row;
+    p{
+        font-family: "futura-pt", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 33px;
+        margin-right: 5%;
+}
+}
+
+#Partner{
+    text-align: center;
 }
