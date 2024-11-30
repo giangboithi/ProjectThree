@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(249, 230, 154);
+    background-color: rgb(255, 239, 177);
 }
 
 
@@ -13,7 +13,7 @@ body{
         background-color:cornsilk;
         padding: 2%;
     img{
-        margin-left: 45%;
+        margin-left: 47%;
     }
     a{
         text-align: center;
@@ -53,6 +53,7 @@ h2{
         font-weight: 900;
         font-style: normal;
         font-size: 50px;
+        color: rgb(252, 170, 5);
 }
 
 #About{
